@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+  color: #40514E;
+  font-family: 'Mohave', sans-serif;
+  text-align: center;
+
+}
+
+h1 {
+  color: #678983;
+  margin-top: 0px;
+  font-size: 5rem;
+  line-height: 2;
+  font-family: 'Neucha', cursive;
+}
+
+h2 {
+  color: #678983;
+  font-size: 2.5rem;
+  Font-weight: normal;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+h3 {
+  color: #678983;
+  font-size: 1.3rem;
+  font-family: 'Gloria Hallelujah', cursive;
+}
+
+hr {
+  border-style: none;
+border-top-style: dotted;
+border-color: #678983;
+border-width: 6px;
+width: 3%;
+margin: 100px auto;
+}
+
+p {
+font-family: 'Mohave', sans-serif;
+font-size: 1.2rem;
+  line-height: 2;
+  color: #40514E;
+}
+
+a {
+  color: #40514E;
+  font-family: 'Mohave', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #E6DDC4;
+}
+
+.copyright {
+  font-size: 0.75rem;
+}
+
+.top-container {
+  background-color: #E6DDC4;
+  position: relative;
+padding-top: 100px;
+margin-bottom: 0px;
+}
+
+.middle-container {
+  background-color: #F0E9D2;
+
+padding-top: 50px;
+}
+
+.bottom-container {
+  background-color: #678983;
+  font-size: 1.2rem;
+  padding: 50px 0px 80px;
+  margin: 60px auto 0px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 300px;
+  bottom: 10px;
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+width: 30%;
+margin: auto;
+}
+
+.outro {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.problemsolved {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.brewing {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Trailrunning {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+  .BUTTON_NMX {
+     background: #678983;
+     background-image: -webkit-linear-gradient(top, #678983, #678983);
+     background-image: -moz-linear-gradient(top, #678983, #678983);
+     background-image: -ms-linear-gradient(top, #678983, #678983);
+     background-image: -o-linear-gradient(top, #678983, #678983);
+     background-image: -webkit-gradient(to bottom, #678983, #678983);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     color: #E6DDC4;
+      font-family: 'Neucha', cursive;
+     font-size: 30px;
+     font-weight: 100px;
+     padding: 10px;
+
+     border: solid #678983 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+  }
+
+  .BUTTON_NMX:hover {
+     border: solid #181D31 1px;
+     background: #181D31;
+     background-image: -webkit-linear-gradient(top, #181D31, #181D31);
+     background-image: -moz-linear-gradient(top, #181D31, #181D31);
+     background-image: -ms-linear-gradient(top, #181D31, #181D31);
+     background-image: -o-linear-gradient(top, #181D31, #181D31);
+     background-image: -webkit-gradient(to bottom, #181D31, #181D31);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     text-decoration: none;
+  }
